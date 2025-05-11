@@ -7,7 +7,7 @@ import { ArrowRight, Code as CodeXml, DatabaseZap, Settings2, Server, Layers3, C
 import { Link } from 'react-router-dom';
 
 const skills = [
-  { name: 'Angular (v19+)', icon: CodeXml, color: 'text-red-500', description: "Deep expertise in modern Angular, building complex SPAs." },
+  { name: 'Angular', icon: CodeXml, color: 'text-red-500', description: "Deep expertise in modern Angular, building complex SPAs." },
   { name: 'Spring Boot', icon: Coffee, color: 'text-green-500', description: "Robust backend solutions with Java and Spring ecosystem." },
   { name: 'Node.js', icon: CodeXml, color: 'text-green-400', description: "Efficient and scalable server-side applications with JavaScript." },
   { name: 'Java', icon: Coffee, color: 'text-orange-500', description: "Enterprise-grade applications and backend systems." },
